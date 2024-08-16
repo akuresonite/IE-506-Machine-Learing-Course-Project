@@ -21,4 +21,4 @@
 ---
 
 ### Project PPT
-[EndTerm PPT](https://github.com/akuresonite/IE-506-Machine-Learing-Course-Project/blob/main/MLTORCH_IE506_CourseProject_EndtermReview-1.pdf))
+[EndTerm PPT](https://github.com/akuresonite/IE-506-Machine-Learing-Course-Project/blob/main/MLTORCH_IE506_CourseProject_EndtermReview-1.pdf)
