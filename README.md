@@ -17,7 +17,7 @@
 
 Code: 
 1. [Waving_Boat.ipynb](https://colab.research.google.com/drive/16-9aN7JJ9bdYdBvpK0EeV6ZbkJq71HMj?usp=sharing)
-2. []
+2. [Waving_Boat_Auto.ipynb](https://github.com/akuresonite/IE-506-Machine-Learing-Course-Project/blob/main/Waving_Boat_Auto.ipynb)
 
 ---
 
