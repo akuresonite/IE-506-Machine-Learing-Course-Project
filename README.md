@@ -15,6 +15,12 @@
 
 ---
 
+Code: 
+1. [Waving_Boat.ipynb](https://colab.research.google.com/drive/16-9aN7JJ9bdYdBvpK0EeV6ZbkJq71HMj?usp=sharing)
+2. []
+
+---
+
 ### Project Report 
 [EndTerm Report](https://github.com/akuresonite/IE-506-Machine-Learing-Course-Project/blob/main/MLTORCH_IE506_End_Term_Project_Report-1.pdf)
 
